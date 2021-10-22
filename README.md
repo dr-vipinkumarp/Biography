@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**vipinkumarpawar/vipinkumarpawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Proficient at executing good safety and health improvement practices for optimum utilization of resources and providing them with a safe working environment. Excellent interpersonal and negotiation skills with strong problem solving and organizational abilities.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
