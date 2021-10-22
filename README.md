@@ -1,6 +1,6 @@
 # The Godfather 👋
 
-![image](https://www.kali.org/blog/kali-linux-2019-4-release/images/kali-preview-boot.gif)
+![image](https://camo.githubusercontent.com/6bf6607afc1db516a47ac907a404aa7e6c6b1d34a30052400b106f75ce8a8ecc/68747470733a2f2f636c69706c792e636f2f77702d636f6e74656e742f75706c6f6164732f323031392f30362f3337313930363232305f545950494e475f4f4e5f4c4150544f505f34303070782e676966)
 
 
 
