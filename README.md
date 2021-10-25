@@ -1,7 +1,7 @@
 # VipinK Pawar   
 ### The Godfather 👋
 
-![image]("https://raw.githubusercontent.com/vipinkumarpawar/vipinkumarpawar/main/hello%20word.gif")
+![image](https://raw.githubusercontent.com/vipinkumarpawar/vipinkumarpawar/main/hello%20word.gif)
 
 - PhD Scholar, University of MUMBAI
 - Co-ordinator, ISRO-IIRS Outreach Program
