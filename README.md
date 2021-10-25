@@ -1,5 +1,19 @@
-# The Godfather 👋
+# VipinK Pawar   
+### The Godfather 👋
 
+
+- PhD Scholar, University of MUMBAI
+- Co-ordinator, ISRO-IIRS Outreach Program
+- Research Associate, Indian Institute of Remote Sensing & GIS
+- ME(VLSI & Embedded Systems ), University of PUNE
+- BE(Electronics & Telecommunication engineering), university of MUMBAI
+- CESD, Pune University
+- MIEEE, California
+- MIAENG,HongKong
+- MATSC,Washington DC, USA
+- AP-MICROCHIP, USA
+- MIFERP, Chennai, India
+- MIRED, New York, USA
 
 ![image](https://aptronicssoftware.com/wp-content/uploads/2020/08/website-development.gif)
 
