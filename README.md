@@ -1,11 +1,15 @@
 # VipinK Pawar   
 ### The Godfather 👋
 
+
+## Honoured with 
+# "Research Excellent Award 2021" 
 ![image](https://raw.githubusercontent.com/vipinkumarpawar/vipinkumarpawar/main/hello%20word.gif)
 
+## I'm,
 - PhD Scholar, University of MUMBAI
 - Co-ordinator, ISRO-IIRS Outreach Program
-- Research Associate, Indian Institute of Remote Sensing & GIS
+- Research Associate, Institute of Investigation in Remote Sensing & GIS
 - ME(VLSI & Embedded Systems ), University of PUNE
 - BE(Electronics & Telecommunication engineering), university of MUMBAI
 - CESD, Pune University
