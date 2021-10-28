@@ -38,9 +38,11 @@ Here are some ideas to get you started:
 
 ## [Whatsapp me](https://wa.me/+917875899873/?text=Hi%20VipinK,%20Github%20Reference)
 
-
+# Expert Talk at ISRO-IIRS Space Application Centre, Dehradun
+![image](https://raw.githubusercontent.com/vipinkumarpawar/vipinkumarpawar/main/isro%20lecture.jpg)
 
 ![image](https://res.cloudinary.com/mohin-in/image/upload/v1600498904/main/hero.gif)
+
 
 
 
