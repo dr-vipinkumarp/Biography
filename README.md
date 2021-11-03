@@ -1,5 +1,5 @@
 
-![image](https://raw.githubusercontent.com/vipinkumarpawar/vipinkumarpawar/main/GodFather%20(1).gif)
+![image](https://raw.githubusercontent.com/vipinkumarpawar/vipinkumarpawar/main/hello%20word.gif)
 
 # VipinK Pawar   
 ### The Godfather 👋
@@ -8,7 +8,6 @@
 ## Honoured with 
 # "Research Excellent Award 2021" 
 
-![image](https://raw.githubusercontent.com/vipinkumarpawar/vipinkumarpawar/main/hello%20word.gif)
 
 ## I'm,
 - PhD Scholar, University of MUMBAI
