@@ -151,7 +151,7 @@ Proficient at executing good safety and health improvement practices for optimum
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ## Automotive Battery Management Systems in ESMITO Solutions PVT LTD, Hyderabad, Telangana, India
+- 🔭 I’m currently working on ## Smart Home and Industrial Battery Management Systems 
 - 🌱 I’m currently active in ## QT, C/C++, Linux Device Drivers, Multilayer PCB and Automotive Systems Development
 - 👯 I’m looking to collaborate on ## Linux, Github, Device Drivers, Battery Swapping stations, Automotive Controllers
 
