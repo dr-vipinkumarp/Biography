@@ -1,12 +1,12 @@
 <!-- markdownlint-disable MD033 MD041-->
 <p align="center">
-  <h3 align="center">⌨️ The Iceberg</h3>
+  <h3 align="center">⌨️</h3>
 </p>
 
 <p align="center">
   <!--<img src="https://readme-typing-svg.herokuapp.com/?lines=Don't+Judge+me+blindly,;You+are+watching;The+tip+of+an+Iceberg&font=Fira%20Code&center=true&width=380&height=50">-->
   
-  <img src="https://readme-typing-svg.herokuapp.com?color=%237E1E83&size=24&center=true&lines=Don't+judge+me+blindly;You're+watching+just+a+tip+of+;An+Iceberg">
+ <!-- <img src="https://readme-typing-svg.herokuapp.com?color=%237E1E83&size=24&center=true&lines=Don't+judge+me+blindly;You're+watching+just+a+tip+of+;An+Iceberg">
 </p>
 
 <!--https://readme-typing-svg.herokuapp.com/demo/-->
